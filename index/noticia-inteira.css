@@ -1,0 +1,28 @@
+.box-noticia-inteira{
+ border: 2px solid black;
+ margin-top: 8px;
+}
+.div-titulo{
+   
+}
+.div-paragrafo{
+    padding-bottom: 10%;
+    width: 55%;
+    margin-left: 20%;
+    
+}
+#titulo-noticia-inteira{
+    font-family: 'Questrial';
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(133, 133, 255);
+}
+#texto-noticia-inteira{
+    text-align: justify;
+    font-family: 'Poppins';
+    font-size: 18px;
+}
+#imagemcoronabrabor{
+    margin-left: 35%;
+}

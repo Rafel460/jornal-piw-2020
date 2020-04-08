@@ -1,0 +1,41 @@
+ #imagem-eu{
+    border-radius: 80px;
+    width: 55px;
+    margin-left: 10px;
+  
+}
+.quem-sou{
+    border: 2px solid gray;
+    padding-bottom: 300px;
+}
+#quem-sou-titulo{
+    font-family: 'Questrial';
+    text-align: center;
+}
+.quem-sou-p{
+  
+    margin-right: 120px;
+    margin-left: 120px;
+}
+.texto-sobre-mim{
+    font-family: 'Poppins';
+    text-align: justify;
+  
+}
+.imagem-eu-div{
+    border: 1px solid gray;
+    width: 80px;
+   margin-left: 30px;
+   margin-top: -180px;
+}
+#listinha{
+    display: inline-block;
+    list-style: none;
+}
+.icones{
+    display: inline-block;
+}
+.div-listinha{
+    width: 190px;
+    margin-left: -175px;
+}
